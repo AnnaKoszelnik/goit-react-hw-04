@@ -1,0 +1,36 @@
+.header{
+    background: linear-gradient(0.25turn, #404f55, #658284, #4f5e6e);
+    padding: 10px;
+    border-radius: 100px;
+    margin: 10px 200px 20px 200px;
+}
+.searchForm{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.formInput{
+    width: 400px;
+    height: 40px;
+    padding: 5px 20px;
+    font-size: 20px; 
+    background-color: transparent;
+    border: 1px solid #3f87a6;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+}
+.formInput::placeholder{
+    font-size: 20px;
+}
+.submitButton{
+   background-color: transparent;
+   border: none;
+}
+.toast{
+    font-size: 30px;
+    font-weight: 400;
+    color: red;
+    background-color: darkblue;
+    border-radius: 10px;
+    padding: 10px;
+}

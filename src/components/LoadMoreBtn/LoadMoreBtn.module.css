@@ -1,0 +1,14 @@
+.loadMoreBtnDiv{
+    display: flex;
+    justify-content: center;
+}
+.btnLoadMore{
+    background-color: rgb(6, 166, 113);
+    text-align: center;
+    padding: 10px;
+    width: 170px;
+    height: 50px;
+    font-weight: 700;
+    font-size: larger;
+    margin-bottom: 30px;
+}
