@@ -1,5 +1,5 @@
 .header{
-    background: linear-gradient(0.25turn, #404f55, #658284, #4f5e6e);
+    background: linear-gradient(0.25turn, #d7ec99, #a6a6e6, #4f5e6e);
     padding: 10px;
     border-radius: 100px;
     margin: 10px 200px 20px 200px;
@@ -15,7 +15,7 @@
     padding: 5px 20px;
     font-size: 20px; 
     background-color: transparent;
-    border: 1px solid #3f87a6;
+    border: 1px solid #29d2c4;
     border-radius: 50px;
     color: rgb(0, 0, 0);
 }
@@ -30,7 +30,7 @@
     font-size: 30px;
     font-weight: 400;
     color: red;
-    background-color: darkblue;
+    background-color: rgb(174, 174, 235);
     border-radius: 10px;
     padding: 10px;
 }
